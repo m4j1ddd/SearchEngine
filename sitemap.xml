@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84">
+<url>
+    <loc>http://www.mihanjoo.com/</loc>
+    <lastmod>2014-08-16</lastmod>
+    <changefreq>always</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://www.mihanjoo.com/?search=</loc>
+    <lastmod>2014-08-16</lastmod>
+    <changefreq>always</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://www.mihanjoo.com/photos/?search=</loc>
+    <lastmod>2014-08-16</lastmod>
+    <changefreq>always</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://www.mihanjoo.com/songs/?search=</loc>
+    <lastmod>2014-08-16</lastmod>
+    <changefreq>always</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://www.mihanjoo.com/videos/?search=</loc>
+    <lastmod>2014-08-16</lastmod>
+    <changefreq>always</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://www.mihanjoo.com/books/?search=</loc>
+    <lastmod>2014-08-16</lastmod>
+    <changefreq>always</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://www.mihanjoo.com/photos/</loc>
+    <lastmod>2014-08-16</lastmod>
+    <changefreq>always</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://www.mihanjoo.com/songs/</loc>
+    <lastmod>2014-08-16</lastmod>
+    <changefreq>always</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://www.mihanjoo.com/videos/</loc>
+    <lastmod>2014-08-16</lastmod>
+    <changefreq>always</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+<url>
+    <loc>http://www.mihanjoo.com/books/</loc>
+    <lastmod>2014-08-16</lastmod>
+    <changefreq>always</changefreq>
+
+    <priority>0.5</priority>
+</url>  
+</urlset>      

@@ -1,0 +1,96 @@
+body {
+	margin: 0;
+	padding: 0;
+	direction: rtl;
+	font-family: "B Yekan";
+}
+a {
+	color: blue; text-decoration: none;
+}
+.result:visited {
+	color: #93F;
+}
+hr {
+	color: #ccc;
+}
+input {
+	font-family: "B Yekan";
+    clear: both;
+}
+.Rectangle1
+{
+    padding-top: 10px;
+	background-image: url("/images/Rectangle1.png");
+    background-repeat: repeat-x;
+} 
+.Rectangle2
+{
+    background-image: url("/images/Rectangle2.png");
+    background-repeat: repeat-x;
+}
+.Rectangle3
+{
+    height: 60px;
+}
+.Layer3
+{
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+.RoundedRectangle1
+{
+    width: 500px;
+    height: 58px;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 10px;
+    font-size: 24px;
+    background-image: url('/images/RoundedRectangle1.png');
+} 
+.RoundedRectangle2
+{
+    height: 58px;
+    background-image: url('/images/RoundedRectangle2.png');
+    color: white;
+    font-size: 24px;
+    border-width: 0px;
+    border-radius: 5px;
+    padding: 10px;
+}
+.menus {
+	background-image: url('/images/Rectangle3.png');
+	font-size: 22px;
+	width: 78px;
+}
+.menus a {
+	text-decoration: none;
+	color: white;
+}
+.menu {
+	font-size: 22px;
+	width: 90px;
+}
+.menu a {
+	text-decoration: none;
+	color: #999;
+}
+.AllRightsReservedfor
+{
+    direction: ltr;
+    font-family: "Myriad Pro";
+}
+.AllRightsReservedfor a {
+	text-decoration: none;
+}
+.body {
+	top: 180px; right: 20px;
+}
+.page {
+	font-family: "B Yekan"; font-size: 24px;
+}
+.body img {
+	max-width: 250px;
+	max-height: 250px;
+	margin: 20px;
+	border: 0px;
+}
